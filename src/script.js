@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Bruno Simon',
+            'Jade Winum',
             {
                 font: font,
                 size: 0.5,
