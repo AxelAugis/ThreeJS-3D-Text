@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Jade Winum',
+            'Dis pas merci en fait',
             {
                 font: font,
                 size: 0.5,
