@@ -35,9 +35,9 @@ fontLoader.load(
         // Material
         const material = new THREE.MeshMatcapMaterial({ matcap: matcapTexture })
 
-        // Text
+        // Texts
         const textGeometry = new TextGeometry(
-            'Dis pas merci en fait',
+            'Bonsoirs',
             {
                 font: font,
                 size: 0.5,
