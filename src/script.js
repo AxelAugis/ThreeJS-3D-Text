@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Texts
         const textGeometry = new TextGeometry(
-            'Bonsoirs',
+            'Bonsoir',
             {
                 font: font,
                 size: 0.5,
